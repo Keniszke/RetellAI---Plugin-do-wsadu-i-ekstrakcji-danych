@@ -1,0 +1,2 @@
+﻿call_id,previous_node,current_node,surveyScore,surveyConsent,isStatisfied,satisfactionCause,userIdentity
+SIM-1234567890,Start,Survey1,10,True,True,Good service,TestUser
