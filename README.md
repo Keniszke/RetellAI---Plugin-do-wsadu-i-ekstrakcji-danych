@@ -32,7 +32,7 @@ python retell_gui.py
 ## Jak używać?
 
 ## 1. Do folderu surveys_to_call wrzuć plik o nazwie numbers_to_call.csv (UTF-8)
-numbers_to_call  musi mieć identyczną tabelę, żeby działało
+numbers_to_call  musi mieć identyczną tabelę, tak jak w template, który jest w tym folderze, żeby działało
 
 ## 2. W panelu retell_gui wciśnij "Uruchom Połączenia"
 W tym momencie wykonuje się batch call do wszystkich numerów na liście w pliku numbers_to_call
